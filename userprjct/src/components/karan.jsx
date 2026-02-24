@@ -1,15 +1,15 @@
 
 import './karan.css'
-import img1 from '../assets/kaadu.jpg'
+import img1 from '../assets/ana.jpg'
 import img2 from '../assets/james.jpg'
-import img3 from '../assets/19.jpg'
+import img3 from '../assets/lon.jpg'
 import img4 from '../assets/ong.webp'
 import img5 from '../assets/man.jpg'
 import img6 from '../assets/party.jpg'
-import img7 from '../assets/kaadu.jpg'
-import img8 from '../assets/james.jpg'
-import img9 from '../assets/19.jpg'
-import img10 from '../assets/ong.webp'
+import img7 from '../assets/diya.webp'
+import img8 from '../assets/rrr.jpg'
+import img9 from '../assets/kira.jpg'
+import img10 from '../assets/bahu.jpg'
 function karan() {
 
   return (
@@ -61,10 +61,10 @@ function karan() {
               <img src={img7} alt="" srcSet='' className='a1' />
             </div>
             <div className='lt4'>
-              <div className='g1'>Anathan kaadu</div>
+              <div className='g1'>Diya</div>
               <div className='g2'>
-               <button className='m4'>22/04/2023</button>
-               <button className='m44'>english</button>
+               <button className='m4'>03/05/2026</button>
+               <button className='m44'>Kannada</button>
               </div>
               <div className='g3'>Tony stark faces his most dangerous enemy</div>
             </div>
@@ -73,10 +73,10 @@ function karan() {
             <div className='t5'>
               <img src={img9} alt="" srcSet='' className='r1'/> </div>
             <div className='lt5'>
-              <div className='i1'>1920</div>
+              <div className='i1'>Kirataka</div>
               <div className='i2'>
-               <button className='m5'>22/04/20233</button>
-               <button className='m55'>english</button>
+               <button className='m5'>22/04/2022</button>
+               <button className='m55'>Kannada</button>
               </div>
               <div className='i3'>A Viking prince seeks revengey</div>
             </div>
@@ -128,9 +128,9 @@ function karan() {
               <img src={img8} alt="" srcSet='' className='a2' />
             </div>
             <div className='rb8'>
-              <div className='h1'>James</div>
+              <div className='h1'>RRR</div>
               <div className='h2'>
-                <button className='b5'>03/05/2025</button>
+                <button className='b5'>26/04/2026</button>
                 <button className='b55'>english</button>
               </div>
               <div className='h3'>Tony stark faces his most dangerous enemy</div>
@@ -141,10 +141,10 @@ function karan() {
               <img src={img10} alt="" srcSet='' className='n1' />
             </div>
             <div className='rb10'>
-              <div className='j1'>Ong bac</div>
+              <div className='j1'>Bahubali</div>
               <div className='j2'>
-                <button className='b6'>22/04/2022</button>
-                <button className='b66'>english</button>
+                <button className='b6'>03/05/2026</button>
+                <button className='b66'>Telugu</button>
               </div>
               <div className='j3'>A Viking prince seeks revenge</div>
             </div>
