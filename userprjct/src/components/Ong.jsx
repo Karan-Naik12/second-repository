@@ -8,7 +8,7 @@ function Ong() {
         <>
         <div className='main'>
                 <div className='top'>
-                    <img src={img2} alt=""srcSet='' className='k1' />
+            
         
                     <div className='t1'>
                         <img src={img3} alt=""srcSet='' className='a1' />

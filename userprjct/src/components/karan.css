@@ -27,7 +27,7 @@
     background-color: black;
     border-radius: 20px;
     height: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 .t1{
     flex: 1;
@@ -35,7 +35,7 @@
     border-radius: 15px;
 }
 .k1{
-    height: 190px;
+    height: 170px;
     width: 100%;
     border-radius: 20px;
 }
@@ -54,21 +54,22 @@
 .a2{
     flex: 1;
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     gap: 10%;
+    padding-bottom: 10px;
 }
 .m1{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 90px;
 }
 .m11{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 60px;
 }
 .a3{
@@ -86,14 +87,14 @@
     flex-direction: column;
     background-color: black;
     border-radius: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 .t2{
     flex: 1;
     border-radius: 15px;
 }
 .l19{
-    height: 190px;
+    height: 170px;
     width: 100%;
     border-radius: 20px;
 }
@@ -112,21 +113,22 @@
 .c2{
     flex: 1;
     display: flex;
-    flex-direction: column;
+     flex-wrap: wrap;
     gap: 10%;
+    padding-bottom: 10px;
 }
 .m2{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 90px;
 }
 .m22{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 60px;
 }
 .c3{
@@ -144,14 +146,14 @@
     flex-direction: column;
     background-color: black;
     border-radius: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 .t3{
     flex: 1;
     border-radius: 15px;
 }
 .im2{
-    height: 190px;
+   height: 170px;
     width: 100%;
     border-radius: 20px;
 }
@@ -170,21 +172,22 @@
 .e2{
     flex: 1;
     display: flex;
-    flex-direction: column;
+     flex-wrap: wrap;
     gap: 10%;
+    padding-bottom: 10px;
 }
 .m3{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 90px;
 }
 .m33{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
    border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 60px;
 }
 .e3{
@@ -202,14 +205,14 @@
     flex-direction: column;
     background-color: black;
     border-radius: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 .t4{
     flex: 1;
     border-radius: 15px;
 }
 .a1{
-    height: 190px;
+   height: 170px;
     width: 100%;
     border-radius: 20px;
 }
@@ -228,21 +231,22 @@
 .g2{
     flex: 1;
     display: flex;
-    flex-direction: column;
+     flex-wrap: wrap;
     gap: 10%;
+    padding-bottom: 10px;
 }
 .m4{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 90px;
 }
 .m44{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 70px;
 }
 .g3{
@@ -260,14 +264,14 @@
     flex-direction: column;
     background-color: black;
     border-radius: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 .t5{
     flex: 1;
     border-radius: 15px;
 }
 .r1{
-    height: 190px;
+   height: 170px;
     width: 100%;
     border-radius: 20px;
 }
@@ -286,21 +290,22 @@
 .i2{
     flex: 1;
     display: flex;
-    flex-direction: column;
+     flex-wrap: wrap;
     gap: 10%;
+    padding-bottom: 10px;
 }
 .m5{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 90px;
 }
 .m55{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
    border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 70px;
 }
 .i3{
@@ -330,14 +335,14 @@
     flex-direction: column;
     background-color: black;
     border-radius: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 .rb1{
     flex: 1;
     border-radius: 15px;
 }
 .j1{
-    height: 190px;
+    height: 170px;
     width: 100%;
     border-radius: 20px;
 }
@@ -356,21 +361,22 @@
 .r2{
     flex: 1;
     display: flex;
-    flex-direction: column;
+     flex-wrap: wrap;
     gap: 10%;
+    padding-bottom: 10px;
 }
 .b11{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 90px;
 }
 .b2{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 60px;
 }
 .r3{
@@ -383,7 +389,7 @@
     display: flex;
 }
 .o1{
-    height: 190px;
+    height: 170px;
     width: 100%;
     border-radius: 20px;
 }
@@ -393,7 +399,7 @@
     flex-direction: column;
     background-color: black;
     border-radius: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 .rb3{
     flex: 1;
@@ -414,21 +420,22 @@
 .d2{
     flex: 1;
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     gap: 10%;
+    padding-bottom: 10px;
 }
 .b22{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 90px;
 }
 .b0{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 60px;
 }
 .d3{
@@ -446,14 +453,14 @@
     flex-direction: column;
     background-color: black;
     border-radius: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 .rb5{
     flex: 1;
     border-radius: 15px;
 }
 .p1{
-    height: 190px;
+   height: 170px;
     width: 100%;
     border-radius: 20px;
 }
@@ -472,21 +479,22 @@
 .f2{
     flex: 1;
     display: flex;
-    flex-direction: column;
+     flex-wrap: wrap;
     gap: 10%;
+    padding-bottom: 10px;
 }
 .b4{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 90px;
 }
 .b44{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
    border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 60px;
 }
 .f3{
@@ -504,14 +512,14 @@
     flex-direction: column;
     background-color: black;
     border-radius: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 .rb7{
     flex: 1;
     border-radius: 15px;
 }
 .a2{
-    height: 190px;
+    height: 170px;
     width: 100%;
     border-radius: 20px;
 }
@@ -530,21 +538,23 @@
 .h2{
     flex: 1;
     display: flex;
-    flex-direction: column;
+     flex-wrap: wrap;
+     padding-bottom: 5px;
     gap: 10%;
+    padding-bottom: 10px;
 }
 .b5{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
    border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 90px;
 }
 .b55{
    background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
    border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 60px;
 }
 .h3{
@@ -562,14 +572,14 @@
     flex-direction: column;
     background-color: black;
     border-radius: 20px;
-    padding: 5px;
+    padding: 10px;
 }
 .rb9{
     flex: 1;
     border-radius: 15px;
 }
 .n1{
-    height: 190px;
+    height: 170px;
     width: 100%;
     border-radius: 20px;
 }
@@ -588,21 +598,22 @@
 .j2{
     flex: 1;
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     gap: 10%;
+    padding-bottom: 10px;
 }
 .b6{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 90px;
 }
 .b66{
     background: linear-gradient(to right,rgb(72, 0, 255),rgb(169, 21, 171));
     color: white;
     border-radius: 20px;
-    height: 30px;
+    height: 25px;
     width: 60px;
 }
 .j3{
