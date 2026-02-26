@@ -1,4 +1,5 @@
 *{
+    margin: 0;
     div{
         border: px solid black;
     }
@@ -143,6 +144,13 @@
     padding-left: 20px;
     font-size: 14px;
     color: gray;
+    
+}
+.da{
+    margin: 10px;
+}
+.ap{
+    margin: 10px;
 }
 .l2{
     flex: 1;
@@ -153,6 +161,12 @@
     padding-left: 20px;
     font-size: 14px;
     color: gray;
+}
+.du{
+    margin: 10px;
+}
+.mi{
+    margin: 10px;
 }
 .right{
     flex: 1;
@@ -170,6 +184,12 @@
     font-size: 14px;
     color: gray;
 }
+.la{
+    margin: 10px;
+}
+.en{
+    margin: 10px;
+}
 .r2{
     flex: 1;
     margin: 10px;
@@ -179,6 +199,12 @@
     padding-left: 20px;
     font-size: 14px;
     color: gray;
+}
+.st{
+    margin: 10px;
+}
+.re{
+    margin: 10px;
 }
 .btm5{
     flex: 1;

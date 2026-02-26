@@ -1,10 +1,10 @@
-  //  import Krn from './components/Krn/'
+   import Krn from './components/Krn/'
   // import Karan from './components/Karan/'
 //  import James from './components/James'
-// import Lon from './components/Lon'
+  // import Lon from './components/Lon'
   //  import Ong from './components/Ong'
 //  import Diya from './components/Diya'
-   import Rrr from './components/Rrr'
+  //  import Rrr from './components/Rrr'
 function App() {
 
   return (
@@ -13,12 +13,12 @@ function App() {
 
     </div>
     {/* <Karan/>  */}
-      {/* <Krn/>   */}
+      <Krn/>  
      {/* <James/>  */}
     {/* <Lon/> */}
     {/* <Ong/> */}
      {/* <Diya/>  */}
-    <Rrr/> 
+    {/* <Rrr/>  */}
     </>
 
   )

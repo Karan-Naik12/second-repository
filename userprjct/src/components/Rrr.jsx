@@ -34,22 +34,22 @@ function Rrr() {
                     <div className='btm4'>
                         <div className='left'>
                             <div className='l1'>
-                                <p>Release date</p>
-                                <p>26 Apr 2026</p>
+                                <div className='da'>Release date</div>
+                                <div className='ap'>26 Apr 2026</div>
                             </div>
                             <div className='l2'>
-                                <p>Duration</p>
-                                <p>1h 40min</p>
+                                <div className='du'>Duration</div>
+                               <div className='mi'>1h 40min</div>
                             </div>
                         </div>
                         <div className='right'>
                             <div className='r1'>
-                                <p>Language</p>
-                                <p>English</p>
+                                <div className='la'>Language</div>
+                                <div className='en'>English</div>
                             </div>
                             <div className='r2'>
-                                <p>status</p>
-                                <p>Released</p>
+                                <div className='st'>status</div>
+                                <div className='re'>Released</div>
                             </div>
                         </div>
                     </div>
