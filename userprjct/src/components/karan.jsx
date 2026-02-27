@@ -1,7 +1,7 @@
 
 import './karan.css'
-import img1 from '../assets/ana.jpg'
-import img2 from '../assets/james.jpg'
+import img1 from '../assets/anat.jpg'
+import img2 from '../assets/jam.jpg'
 import img3 from '../assets/lon.jpg'
 import img4 from '../assets/ong.webp'
 import img5 from '../assets/man.jpg'

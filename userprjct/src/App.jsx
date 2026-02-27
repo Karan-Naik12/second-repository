@@ -1,6 +1,6 @@
    import Krn from './components/Krn/'
   // import Karan from './components/Karan/'
-//  import James from './components/James'
+ import James from './components/James'
   // import Lon from './components/Lon'
   //  import Ong from './components/Ong'
 //  import Diya from './components/Diya'
@@ -13,8 +13,8 @@ function App() {
 
     </div>
     {/* <Karan/>  */}
-      <Krn/>  
-     {/* <James/>  */}
+      {/* <Krn/>   */}
+     <James/> 
     {/* <Lon/> */}
     {/* <Ong/> */}
      {/* <Diya/>  */}
